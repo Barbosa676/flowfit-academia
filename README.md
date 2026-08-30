@@ -70,3 +70,5 @@ Este projeto foi pensado como uma solução simples, leve e funcional para gest�
 ## 📜 Licença
 
 Este projeto está sob licença MIT.
+
+> Atualização de sincronização do perfil GitHub - 2026-08-30
