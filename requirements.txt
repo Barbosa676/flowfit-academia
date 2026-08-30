@@ -1,0 +1,1 @@
+# Nenhuma dependência externa; usa biblioteca padrão (Tkinter, sqlite3)
